@@ -1,16 +1,17 @@
-### Hi there 👋
+# *¡Hola mundo!*
 
-<!--
-**AleGuzman1604/AleGuzman1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### *Acerca de mí*
 
-Here are some ideas to get you started:
+¡Hola! Soy Alejandro Guzmán, estudiante apasionado de Electrónica Industrial en el Colegio Técnico Profesional Don Bosco. Actualmente estoy en undécimo año y estoy emocionado por aprender y compartir conocimientos en el mundo de la electrónica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### *Mis Intereses*
+
+Me interesan especialmente los circuitos eléctricos, la automatización industrial y todo lo relacionado con la tecnología que impulsa nuestra sociedad hacia el futuro.
+
+### *Proyectos*
+
+Estaré compartiendo proyectos interesantes relacionados con la electrónica industrial, desde pequeños circuitos hasta sistemas más complejos de automatización.
+
+### *Colaboración*
+
+¡Estoy abierto a colaborar en proyectos emocionantes! Si tienes ideas o buscas colaboradores, ¡no dudes en contactarme!
